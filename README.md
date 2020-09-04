@@ -1,11 +1,6 @@
 ### 
-  <div align=center>
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nadongjun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
  
-  </div>
-  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nadongjun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadongjun&layout=compact)](https://github.com/nadongjun/github-readme-stats)
 
