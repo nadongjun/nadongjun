@@ -1,12 +1,14 @@
 ### 
   <div align=center>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nadongjun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nadongjun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadongjun)](https://github.com/nadongjun/github-readme-stats)
-
+ 
   </div>
   
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadongjun&layout=compact)](https://github.com/nadongjun/github-readme-stats)
+
   
  
   [![Tech Blog Badge](http://img.shields.io/badge/-포트폴리오-black?style=flat-square&logo=github&link=https://portfolio-949d3.web.app/)](https://portfolio-949d3.web.app/)
