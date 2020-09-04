@@ -4,11 +4,12 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadongjun&layout=compact)](https://github.com/nadongjun/github-readme-stats)
 
-  
- 
+  <div align=center>
+
   [![Tech Blog Badge](http://img.shields.io/badge/-포트폴리오-black?style=flat-square&logo=github&link=https://portfolio-949d3.web.app/)](https://portfolio-949d3.web.app/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/na-d-b903a9195/)](https://www.linkedin.com/in/na-d-b903a9195/)
- 
+  </div>
+
 <!--
 **nadongjun/nadongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
