@@ -4,7 +4,7 @@
   <div align=center>
 
   [![Tech Blog Badge](http://img.shields.io/badge/-포트폴리오-black?style=flat-square&logo=github&link=https://na-dongjun.web.app)](https://na-dongjun.web.app)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/na-d-b903a9195/)](https://www.linkedin.com/in/na-d-b903a9195/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadongjun/)](https://www.linkedin.com/in/nadongjun/)
   </div>
 
 <!--
