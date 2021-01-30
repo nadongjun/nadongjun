@@ -6,6 +6,8 @@
   [![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://na-dongjun.web.app)](https://na-dongjun.web.app)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadongjun/)](https://www.linkedin.com/in/nadongjun/)
   [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-white?style=flat-square&logo=researchgate&link=https://www.researchgate.net/profile/Dongjun_Na2)](https://www.researchgate.net/profile/Dongjun_Na2/)
+  [![SciProfiles Badge](https://img.shields.io/badge/-SciProfiles-9cf?style=flat-square&link=https://sciprofiles.com/profile/dongjunna)](https://sciprofiles.com/profile/dongjunna)
+
   </div>
 
 <!--
