@@ -6,13 +6,12 @@
   [![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://na-dongjun.web.app)](https://na-dongjun.web.app)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadongjun/)](https://www.linkedin.com/in/nadongjun/)
   [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-white?style=flat-square&logo=researchgate&link=https://www.researchgate.net/profile/Dongjun_Na2)](https://www.researchgate.net/profile/Dongjun_Na2/)
-  [![SciProfiles Badge](https://img.shields.io/badge/-SciProfiles-9cf?style=flat-square&link=https://sciprofiles.com/profile/dongjunna)](https://sciprofiles.com/profile/dongjunna)
-
+  [![GoogleScholar Badge](https://img.shields.io/badge/-GoogleScholar-white?style=flat-square&logo=Google%20Scholar&link=https://scholar.google.com/citations?user=0cT9zBkAAAAJ&hl=en)](https://scholar.google.com/citations?user=0cT9zBkAAAAJ&hl=en)
   </div>
 
 <!--
 **nadongjun/nadongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
+   [![SciProfiles Badge](https://img.shields.io/badge/-SciProfiles-9cf?style=flat-square&link=https://sciprofiles.com/profile/dongjunna)](https://sciprofiles.com/profile/dongjunna)
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nadongjun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadongjun&layout=compact)](https://github.com/nadongjun/github-readme-stats)
