@@ -5,9 +5,8 @@
 
  
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadongjun/)](https://www.linkedin.com/in/nadongjun/)
-  [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-white?style=flat-square&logo=researchgate&link=https://www.researchgate.net/profile/Dongjun_Na2)](https://www.researchgate.net/profile/Dongjun_Na2/)
+  [![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=https://medium.com/@dongjunna)](https://medium.com/@dongjunna)
   [![GoogleScholar Badge](https://img.shields.io/badge/-GoogleScholar-white?style=flat-square&logo=Google%20Scholar&link=https://scholar.google.com/citations?user=0cT9zBkAAAAJ&hl=en)](https://scholar.google.com/citations?user=0cT9zBkAAAAJ&hl=en)
-    [![Tech Blog Badge](http://img.shields.io/badge/-DBpia-red?style=flat-square&link=https://www.dbpia.co.kr/author/authorDetail?ancId=4593411)](https://www.dbpia.co.kr/author/authorDetail?ancId=4593411)
   </div>
 
 <!--
